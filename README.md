@@ -1,2 +1,2 @@
 # git_practice
-my name is prajyot
+# my name is prajyot
