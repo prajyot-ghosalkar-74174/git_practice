@@ -2,5 +2,4 @@
 # my name is prajyot Nandkishor Ghosalkar
 # my age is 29
 # my hobby is playing cricket
-on story-1
 
